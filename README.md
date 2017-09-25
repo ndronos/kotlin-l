@@ -10,3 +10,4 @@ reference JetBrains/kotlin-native/[.gitignore](https://github.com/JetBrains/kotl
 
 [kotlin.link](https://kotlin.link/)  
 Github [KotlinBy](https://github.com/KotlinBy)/[awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)  
+A [curated list of awesome](https://github.com/sindresorhus/awesome) Kotlin related stuff inspired by [awesome-java](https://github.com/akullpp/awesome-java).  
