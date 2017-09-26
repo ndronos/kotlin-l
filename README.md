@@ -27,5 +27,8 @@ kotlinlang [/index](http://kotlinlang.org/)
 [/tutorials](http://kotlinlang.org/docs/tutorials)  
 [/command-line](http://kotlinlang.org/docs/tutorials/command-line.html)  
 
+[#running-the-repl](http://kotlinlang.org/docs/tutorials/command-line.html#running-the-repl)  
+```$ kotlinc -script file.kts <arguments>```
+
 ---
 
