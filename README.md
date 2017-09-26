@@ -39,5 +39,7 @@ kotlinlang [/index](http://kotlinlang.org/)
 
 [/kotlin](https://developer.android.com/kotlin/) Kotlin and Android  
 [/get-started](https://developer.android.com/kotlin/get-started.html) Get Started with Kotlin on Android  
+[/faq](https://developer.android.com/kotlin/faq.html) Kotlin on Android FAQ  
+
 
 ---
