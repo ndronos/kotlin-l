@@ -6,6 +6,9 @@
 [hello-package.kt](/src/hello-package.kt)  
 [hello-object-oriented.kt](/src/hello-object-oriented.kt)  
 
+Scripts  
+[list_folders.kts](/src/list_folders.kts)
+
 ---
 
 [.gitignore](/.gitignore)  
