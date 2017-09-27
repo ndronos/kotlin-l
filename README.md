@@ -28,7 +28,7 @@ A [curated list of awesome](https://github.com/sindresorhus/awesome) Kotlin rela
 
 kotlinlang [/index](http://kotlinlang.org/)  
 
-[/reference](https://kotlinlang.org/docs/reference/)
+[/reference](https://kotlinlang.org/docs/reference/) [/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)
 
 [/tutorials](http://kotlinlang.org/docs/tutorials)  
 
