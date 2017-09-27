@@ -497,3 +497,5 @@ January 2017
 12  Microservices with Kotlin
 13  Concurrency
 ```
+## [Fundamental Kotlin](http://www.fundamental-kotlin.com/)
+by Miloš Vasić
