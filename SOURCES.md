@@ -290,3 +290,27 @@ May 2017, 01:26:23
 
 ## [Learn Kotlin in Y minutes](https://learnxinyminutes.com/docs/kotlin/)
 Github:/[learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/kotlin.html.markdown)  
+```
+Comments                    •
+Package                     •
+main()                      •
+Variables                   •
+Type Inference              •
+Datatypes                   •
+Raw String                  •
+Templates                   •
+Nullable                    •
+Functions                   •
+Classes                     •
+Data Classes                •
+Sets                        •
+Maps                        •
+Sequences                   •
+High-order Functions        •
+Loops                       •
+Conditionals                •
+Type Casting                •
+Extensions                  •
+Enum                        •
+Objects                     •
+```
