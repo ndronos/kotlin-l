@@ -92,3 +92,14 @@ Udemy/[Peter Sommerhoff](https://udemy.com/user/petersommerhoff/)
 ## [Kotlin for Java Developers](https://udemy.com/kotlin-java/)
 Udemy/[Dmitri Nesteruk](https://udemy.com/user/dmitrinesteruk/)  
 2015, 04:17:57
+
+```
+1   Introduction to Kotlin      10:24
+2   Types and Variables         29:07
+3   Control Flow                22:56
+4   Functions                   18:05
+5   Lambda Functions            15:39
+6   Classes                     46:27
+7   Collection Operations     1:33:15
+8   Odds & Ends                 22:04
+```
