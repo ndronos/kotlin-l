@@ -357,3 +357,5 @@ Appendixes
     Appendix C: The Kotlin ecosystem
 ```
 
+## [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
+by Antonio Leiva
