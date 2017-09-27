@@ -647,3 +647,8 @@ Jun 17, 2017
 
 [Some of my favorite Kotlin features (that we use a lot in Basecamp)](https://m.signalvnoise.com/some-of-my-favorite-kotlin-features-that-we-use-a-lot-in-basecamp-5ac9d6cea95)  
 May 28, 2016 
+
+[How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed)  
+After a month with Kotlin, I finally understand what the hell DHH has been saying about Ruby all these years!  
+May 14, 2016 
+
