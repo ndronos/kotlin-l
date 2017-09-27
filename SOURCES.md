@@ -69,3 +69,7 @@ October 2016, ~3h
 7   Asynchronous Programming          15:32
     Conclusion                        00:34
 ```
+
+## [Kotlin Programming](https://udemy.com/kotlin-course/)
+Udemy/[Peter Sommerhoff](https://udemy.com/user/petersommerhoff/)  
+2016, 5:36:42
