@@ -333,3 +333,7 @@ May 17-19, 2017, in Mountain View, California
 
 
 # [/Books](https://kotlinlang.org/docs/books.html)
+
+
+## [Kotlin in Action](https://manning.com/books/kotlin-in-action)
+by Dimitry Jemerov, Svetlana Isakova
