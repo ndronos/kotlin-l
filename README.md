@@ -28,6 +28,8 @@ A [curated list of awesome](https://github.com/sindresorhus/awesome) Kotlin rela
 
 kotlinlang [/index](http://kotlinlang.org/)  
 
+[/reference](https://kotlinlang.org/docs/reference/)
+
 [/tutorials](http://kotlinlang.org/docs/tutorials)  
 
 [/getting-started]((http://kotlinlang.org/docs/tutorials/getting-started.html))
