@@ -637,3 +637,7 @@ May, 10 2017
 [How we made Basecamp 3’s Android app 100% Kotlin](https://m.signalvnoise.com/how-we-made-basecamp-3s-android-app-100-kotlin-35e4e1c0ef12)  
 Our best advice based on a year of real-world shipping.  
 Apr 29, 2017  
+
+[Kotlin makes me a happier (better) programmer](https://m.signalvnoise.com/kotlin-makes-me-a-happier-better-programmer-1fc668724563)  
+What’s Kotlin’s best feature? Creating programmer happiness.  
+Jun 10, 2017 
