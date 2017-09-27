@@ -29,6 +29,20 @@ A [curated list of awesome](https://github.com/sindresorhus/awesome) Kotlin rela
 kotlinlang [/index](http://kotlinlang.org/)  
 
 [/reference](https://kotlinlang.org/docs/reference/) [/kotlin-docs.pdf](https://kotlinlang.org/docs/kotlin-docs.pdf)
+```
+Overview
+Getting Started
+Basics
+Classes and Objects
+Functions and Lambdas
+Other
+Core Libraries
+Reference
+Java Interop
+JavaScript
+Tools
+FAQ
+```
 
 [/tutorials](http://kotlinlang.org/docs/tutorials)  
 
