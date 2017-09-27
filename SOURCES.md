@@ -395,3 +395,6 @@ III About the author
 30  Conclusion
 ```
 
+
+## [Modern Web Development with Kotlin](https://leanpub.com/modern-web-development-with-kotlin)
+by Denis Kalinin
