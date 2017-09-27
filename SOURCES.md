@@ -53,3 +53,9 @@ October 2016, ~5h14min
 11  Standard Library        38:01
 12  Build Tools             03:56
 ```
+
+## [Advanced Kotlin Programming](https://player.oreilly.com/videos/9781491964132)
+O'Reilly/[Hadi Hariri](http://www.oreilly.com/pub/au/4678)  
+Github:[hhariri](https://github.com/hhariri)/[oreilly-kotlin-course](https://github.com/hhariri/oreilly-kotlin-course)  
+¹ [From Nested Functions to Asynchronous Programming](http://shop.oreilly.com/product/0636920052999.do)  
+October 2016, ~3h
