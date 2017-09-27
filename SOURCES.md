@@ -653,3 +653,6 @@ After a month with Kotlin, I finally understand what the hell DHH has been sayin
 May 14, 2016 
 
 https://hashnode.com/n/kotlin  
+
+https://medium.com/tag/kotlin 
+
