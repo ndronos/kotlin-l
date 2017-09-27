@@ -33,3 +33,9 @@ July 2017, 23:15:22
 25  Find My Phone App                         1:15:08
 26  Publish App to Store                        19:00
 ```
+
+## [Introduction to Kotlin Programming](https://player.oreilly.com/videos/9781491964118)
+O'Reilly/[Hadi Hariri](http://www.oreilly.com/pub/au/4678)  
+Github:[hhariri](https://github.com/hhariri)/[oreilly-kotlin-course](https://github.com/hhariri/oreilly-kotlin-course)  
+¹ [From Hello World to Interoperability with Java](http://shop.oreilly.com/product/0636920052982.do)  
+October 2016, ~5h14min
