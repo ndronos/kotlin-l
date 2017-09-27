@@ -155,3 +155,11 @@ Github:[svtk](https://github.com/svtk)/[kotlin-course](https://github.com/svtk/k
 by Svetlana Isakova  
 Try:[Kotlin Koans](https://try.kotlinlang.org/#/Kotlin%20Koans/)
 Github:Kotlin/[kotlin-koans](https://github.com/Kotlin/kotlin-koans)
+```
+Introduction
+Convention
+Collections
+Properties
+Builders
+Generics
+```
