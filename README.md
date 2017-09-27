@@ -79,19 +79,13 @@ To run a script, we just pass the `-script` option to the compiler with the corr
 
 ---
 
-# /[Android](https://developer.android.com/)
-[Kotlin and Android](https://developer.android.com/kotlin/index.html)  
-[Get Started with Kotlin on Android](https://developer.android.com/kotlin/get-started.html)  
-[Kotlin on Android FAQ](https://developer.android.com/kotlin/faq.html)  
-[Resources to Learn Kotlin](https://developer.android.com/kotlin/resources.html)
-
+# [/Android](https://developer.android.com/)
 
 [developer.android.com](https://developer.android.com/)  
 
-[/kotlin](https://developer.android.com/kotlin/) Kotlin and Android  
-[/get-started](https://developer.android.com/kotlin/get-started.html) Get Started with Kotlin on Android  
-[/faq](https://developer.android.com/kotlin/faq.html) Kotlin on Android FAQ  
-[/resources](https://developer.android.com/kotlin/resources.html) Resources to Learn Kotlin  
-
+Kotlin and Android [/kotlin](https://developer.android.com/kotlin/)  
+Get Started with Kotlin on Android [/get-started](https://developer.android.com/kotlin/get-started.html)  
+Kotlin on Android FAQ [/faq](https://developer.android.com/kotlin/faq.html)  
+Resources to Learn Kotlin [/resources](https://developer.android.com/kotlin/resources.html)  
 
 ---
