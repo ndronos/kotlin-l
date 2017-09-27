@@ -287,3 +287,6 @@ May 2017, 01:26:23
     Interfaces                1:18:12
     Null Safety               1:22:22
 ```
+
+## [Learn Kotlin in Y minutes](https://learnxinyminutes.com/docs/kotlin/)
+Github:/[learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/kotlin.html.markdown)  
