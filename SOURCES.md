@@ -624,3 +624,6 @@ Youtube/[Simple Programmer](https://www.youtube.com/channel/UCFxdcuY-S6yjZGq_2cj
 by John Sonmez [@jsonmez](https://https://twitter.com/hsonmez) [PluralSight](https://www.pluralsight.com/authors/john-sonmez)  
 Aug 2, 2017  
 7:05  
+
+https://hashnode.com/post/why-i-abandoned-java-in-favour-of-kotlin-ciuzhmecf09khdc530m1ghu6d  
+Nov, 1 2016  
