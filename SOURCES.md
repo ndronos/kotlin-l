@@ -652,3 +652,4 @@ May 28, 2016
 After a month with Kotlin, I finally understand what the hell DHH has been saying about Ruby all these years!  
 May 14, 2016 
 
+https://hashnode.com/n/kotlin  
