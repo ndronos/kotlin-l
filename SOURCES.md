@@ -88,3 +88,7 @@ Udemy/[Peter Sommerhoff](https://udemy.com/user/petersommerhoff/)
 12  Binary & Hexadecimal Numbers            32:13
 13  Object-Oriented Programming - Part III  46:43
 ```
+
+## [Kotlin for Java Developers](https://udemy.com/kotlin-java/)
+Udemy/[Dmitri Nesteruk](https://udemy.com/user/dmitrinesteruk/)  
+2015, 04:17:57
