@@ -478,3 +478,7 @@ Hosting and deployment
 Closing remarks
 Appendix A. Packages
 ```
+## [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
+By Stephen Samuel, Stefan Bocutiu  
+January 2017  
+¹ [mapt](https://www.packtpub.com/mapt/book/application_development/9781787126367)
