@@ -37,6 +37,12 @@ kotlinlang [/index](http://kotlinlang.org/)
 [#running-the-repl](http://kotlinlang.org/docs/tutorials/command-line.html#running-the-repl)  
 ```$ kotlinc -script file.kts <arguments>```
 
+# [/Scripting](https://kotlinlang.org/docs/tutorials/command-line.html#using-the-command-line-to-run-scripts)
+[#using-the-command-line-to-run-scripts](https://kotlinlang.org/docs/tutorials/command-line.html#using-the-command-line-to-run-scripts)  
+Kotlin can also be used as a *scripting language*. A script is a Kotlin source file `.kts` with top level executable code.  
+To run a script, we just pass the `-script` option to the compiler with the corresponding script file.  
+```$ kotlinc -script file.kts <arguments>```
+
 ---
 
 # /[Android](https://developer.android.com/)
