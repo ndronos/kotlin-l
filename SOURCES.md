@@ -641,3 +641,6 @@ Apr 29, 2017
 [Kotlin makes me a happier (better) programmer](https://m.signalvnoise.com/kotlin-makes-me-a-happier-better-programmer-1fc668724563)  
 What’s Kotlin’s best feature? Creating programmer happiness.  
 Jun 10, 2017 
+
+[Kotlin: It’s the little things](https://m.signalvnoise.com/kotlin-its-the-little-things-8c0f501bc6ea)  
+Jun 17, 2017  
