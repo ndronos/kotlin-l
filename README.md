@@ -34,8 +34,26 @@ kotlinlang [/index](http://kotlinlang.org/)
 
 [/command-line](http://kotlinlang.org/docs/tutorials/command-line.html)  
 
-[#running-the-repl](http://kotlinlang.org/docs/tutorials/command-line.html#running-the-repl)  
-```$ kotlinc -script file.kts <arguments>```
+
+# /[REPL](https://kotlinlang.org/docs/tutorials/command-line.html#running-the-repl)
+
+Run the compiler without parameters to have an interactive shell. Type any valid Kotlin code and see the results.
+```
+$ kotlinc
+Welcome to Kotlin version ... (JRE ...)
+Type :help for help, :quit for quit
+>>> 
+```
+```
+>>> :help
+Available commands:
+:help                   show this help
+:quit                   exit the interpreter
+:dump bytecode          dump classes to terminal
+:load <file>            load script from specified file
+>>> 
+```
+
 
 # [/Scripting](https://kotlinlang.org/docs/tutorials/command-line.html#using-the-command-line-to-run-scripts)
 [#using-the-command-line-to-run-scripts](https://kotlinlang.org/docs/tutorials/command-line.html#using-the-command-line-to-run-scripts)  
