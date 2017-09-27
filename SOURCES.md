@@ -150,3 +150,8 @@ Github:[svtk](https://github.com/svtk)/[kotlin-course](https://github.com/svtk/k
 11  Ladder
 12  Kotlin inference in the Type
 ```
+
+## [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html)
+by Svetlana Isakova  
+Try:[Kotlin Koans](https://try.kotlinlang.org/#/Kotlin%20Koans/)
+Github:Kotlin/[kotlin-koans](https://github.com/Kotlin/kotlin-koans)
