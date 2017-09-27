@@ -630,3 +630,7 @@ Nov, 1 2016
 
 https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5  
 May, 10 2017  
+
+
+#### /Articles by [Dan Kim](https://m.signalvnoise.com/@lateplate)
+
