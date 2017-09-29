@@ -34,6 +34,11 @@ July 2017, 23:15:22
 26  Publish App to Store                        19:00
 ```
 
+## [Kotlin from Zero to Hero and Build 10 Android Apps](https://learn-kotlin-from-zero-to-hero-and-build-15-android-apps/)  
+Udemy/[Mohammed Naguib](https://www.udemy.com/user/5554fc386d2fd/)  
+September, 2017, 23:30:00
+
+
 ## [Introduction to Kotlin Programming](https://player.oreilly.com/videos/9781491964118)
 O'Reilly/[Hadi Hariri](http://www.oreilly.com/pub/au/4678)  
 Github:[hhariri](https://github.com/hhariri)/[oreilly-kotlin-course](https://github.com/hhariri/oreilly-kotlin-course)  
