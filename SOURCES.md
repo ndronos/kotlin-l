@@ -4,7 +4,7 @@
 ## [The Complete Kotlin Developer Course](https://www.udemy.com/the-complete-kotlin-developer-course/)
 Udemy/[Hussein Al Rubaye](https://www.udemy.com/user/hussein-talib/)  
 Github:[hussien89aa](https://github.com/hussien89aa)/[KotlinUdemy](https://github.com/hussien89aa/KotlinUdemy)  
-July 2017, 23:15:22 
+August 2017, 30:10:11 
 ```
 1   Introduction and Setup the Environment      07:07 
 2   Variables                                   45:29
@@ -16,8 +16,8 @@ July 2017, 23:15:22
 8   Object Oriented Programming               1:27:30
 9   Storage and Files                           20:16
 10  Multi Threading                             16:40
-11  Android Startup                             11:20
-12  Find My Age App                             35:15
+11  Android Startup                             10:27
+12  Find My Age App                             41:23
 13  Complete Tic Tac Toe Game                   45:57
 14  Calculator App                            1:23:49
 15  Pokemon Game on Android                   1:01:53
@@ -28,9 +28,9 @@ July 2017, 23:15:22
 20  Firebase Online Tic Tac Toe Game          1:39:21
 21  Firebase Twitter and Facebook App         2:15:06
 22  Media Player for Play Online and Local      55:21
-23  Complete Alarm App                          56:13
+23  Complete Alarm App                          57:54
 24  Sensors App                                 28:00
-25  Find My Phone App                         1:15:08
+25  Firebase | Find My Phone App              3:45:13
 26  Publish App to Store                        19:00
 ```
 
