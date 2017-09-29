@@ -37,7 +37,20 @@ July 2017, 23:15:22
 ## [Kotlin from Zero to Hero and Build 10 Android Apps](https://learn-kotlin-from-zero-to-hero-and-build-15-android-apps/)  
 Udemy/[Mohammed Naguib](https://www.udemy.com/user/5554fc386d2fd/)  
 September, 2017, 23:30:00
-
+```
+1   Preparation                               1:14:43
+2   Operations and Priorities                 1:56:53
+3   Decision Making                             51:45
+4   Loops                                     1:00:46
+5   Object Oriented Programming               1:20:25
+6   Collections and Strings                   1:51:26
+7   Object Oriented Programming Advanced      3:35:51
+8   Apps                                      3:19:16
+9   Functions                                 2:13:00
+10  Advanced Programming                      3:19:16
+11  Interoperabilty                             38:49
+12  Kotlin Advanced                           2:23:35
+```
 
 ## [Introduction to Kotlin Programming](https://player.oreilly.com/videos/9781491964118)
 O'Reilly/[Hadi Hariri](http://www.oreilly.com/pub/au/4678)  
