@@ -92,3 +92,22 @@ Resources to Learn Kotlin [/resources](https://developer.android.com/kotlin/reso
 
 # JDK
 
+on Windows  
+===
+
+```
+C:\>java
+Usage: java ...
+```
+Default Folder Installation
+```
+C:\Program Files\Java`
+jdkX.x.y_yyy
+jreX.x.y_yyy
+``` 
+
+Default PATH `C:\Program Files\Java\jdk...\bin`
+
+```Computer > Properties > Advanced system settings > Environment Variables > System variables > Path```
+```New... > Edit environment variable > New``` OR ```Edit... > Variable value:``` add ; and PATH 
+
