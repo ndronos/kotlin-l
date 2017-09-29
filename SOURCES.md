@@ -31,7 +31,9 @@ August 2017, 30:10:11
 23  Complete Alarm App                          57:54
 24  Sensors App                                 28:00
 25  Firebase | Find My Phone App              3:45:13
-26  Publish App to Store                        19:00
+26  Twitter App Using MySQL & PHP Web Service 3:40:33
+27  Build Web Services with Node.js and C#      37:14
+28  Publish App to Store                        19:00
 ```
 
 ## [Kotlin from Zero to Hero and Build 10 Android Apps](https://learn-kotlin-from-zero-to-hero-and-build-15-android-apps/)  
