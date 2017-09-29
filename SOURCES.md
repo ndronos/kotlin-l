@@ -36,7 +36,7 @@ July 2017, 23:15:22
 
 ## [Kotlin from Zero to Hero and Build 10 Android Apps](https://learn-kotlin-from-zero-to-hero-and-build-15-android-apps/)  
 Udemy/[Mohammed Naguib](https://www.udemy.com/user/5554fc386d2fd/)  
-September, 2017, 23:30:00
+September, 2017, 23:41:26
 ```
 1   Preparation                               1:14:43
 2   Operations and Priorities                 1:56:53
