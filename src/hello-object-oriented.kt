@@ -1,3 +1,7 @@
+/* /index
+ *  class fun main() arg[] val String
+ */
+
 class Greeter(val name: String) {       // class with a primary constructor and
     fun greet() {                       // a member function
         println("Hello, $name")         // string interpolation to cut down ceremony
