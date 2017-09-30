@@ -8,6 +8,9 @@
 [00-helloPackage.kt](/src/00-helloPackage.kt)
 [00-helloObjectOriented.kt](/src/00-helloObjectOriented.kt)
 
+[01-datatypesVarVal.kt](/src/01-datatypesVarVal.kt)  
+
+
 Scripts  
 [list_folders.kts](/src/list_folders.kts)
 
