@@ -127,4 +127,5 @@ Github JetBrains/[kotlin-native](https://github.com/JetBrains/kotlin-native/)
 YouTube/[Tech Cave](https://www.youtube.com/channel/UCo_7ENDNCH4HsVdqaaAIgJQ/videos)  
 [Building Kotlin/Native from Sources](https://www.youtube.com/watch?v=KOCXwYpGMoI)  
 [Kotlin/Native samples Part 1](https://www.youtube.com/watch?v=SpS5kvMFB20)  
+[Kotlin/Native samples Part 2](https://www.youtube.com/watch?v=0Py_6DYFIsw)  
 
