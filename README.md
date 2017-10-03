@@ -135,3 +135,4 @@ YouTube/[Tech Cave](https://www.youtube.com/channel/UCo_7ENDNCH4HsVdqaaAIgJQ/vid
 [Kotlin/Native samples Part 1](https://www.youtube.com/watch?v=SpS5kvMFB20)  
 [Kotlin/Native samples Part 2](https://www.youtube.com/watch?v=0Py_6DYFIsw)  
 
+[DZone](https://dzone.com/)/[Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news)  
