@@ -125,3 +125,4 @@ Default PATH `C:\Program Files\Java\jdk...\bin`
 Github JetBrains/[kotlin-native](https://github.com/JetBrains/kotlin-native/)  
 
 YouTube/[Tech Cave](https://www.youtube.com/channel/UCo_7ENDNCH4HsVdqaaAIgJQ/videos)  
+[Building Kotlin/Native from Sources](https://www.youtube.com/watch?v=KOCXwYpGMoI)  
