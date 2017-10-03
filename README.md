@@ -137,3 +137,5 @@ YouTube/[Tech Cave](https://www.youtube.com/channel/UCo_7ENDNCH4HsVdqaaAIgJQ/vid
 
 [DZone](https://dzone.com/)/[Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news)  
 [JVM-Free Kotlin With Kotlin/Native](https://dzone.com/articles/jvm-free-kotlin-with-kotlinnative)  
+
+[Getting started with Kotlin Native](https://www.sakib.ninja/getting-started-with-kotlin-native/)  
