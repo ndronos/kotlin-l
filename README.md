@@ -125,6 +125,7 @@ Default PATH `C:\Program Files\Java\jdk...\bin`
 Github JetBrains/[kotlin-native](https://github.com/JetBrains/kotlin-native/)  
 
 [JetBrains/Blog](https://blog.jetbrains.com/kotlin/)  
+[Kotlin/Native Tech Preview: Kotlin without a VM](https://blog.jetbrains.com/kotlin/2017/04/kotlinnative-tech-preview-kotlin-without-a-vm/)  
  
 
 
