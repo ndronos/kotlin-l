@@ -123,3 +123,5 @@ Default PATH `C:\Program Files\Java\jdk...\bin`
 # /Native
 
 Github JetBrains/[kotlin-native](https://github.com/JetBrains/kotlin-native/)  
+
+YouTube/[Tech Cave](https://www.youtube.com/channel/UCo_7ENDNCH4HsVdqaaAIgJQ/videos)  
