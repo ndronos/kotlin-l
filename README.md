@@ -122,6 +122,11 @@ Default PATH `C:\Program Files\Java\jdk...\bin`
 
 # /Native
 
+```
+$ kotlinc-native file.kt -o output -opt
+```
+`-opt` for optimized compilation
+
 Github JetBrains/[kotlin-native](https://github.com/JetBrains/kotlin-native/)  
 
 [JetBrains/Blog](https://blog.jetbrains.com/kotlin/)  
