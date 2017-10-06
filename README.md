@@ -140,6 +140,7 @@ YouTube/[Tech Cave](https://www.youtube.com/channel/UCo_7ENDNCH4HsVdqaaAIgJQ/vid
 [Kotlin/Native samples Part 1](https://www.youtube.com/watch?v=SpS5kvMFB20)  
 [Kotlin/Native samples Part 2](https://www.youtube.com/watch?v=0Py_6DYFIsw)  
 [TechCave.ru](http://techcave.ru)  
+[Сборка Kotlin/Native из исходников](http://techcave.ru/posts/102-sborka-kotlinnative-iz-ishodnikov.html)  
 [Микросервис на Kotlin, Spring Boot и Docker](http://techcave.ru/posts/101-mikroservis-na-kotlin-spring-boot-i-docker.html)  
 
 
