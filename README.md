@@ -143,9 +143,9 @@ YouTube/[Tech Cave](https://www.youtube.com/channel/UCo_7ENDNCH4HsVdqaaAIgJQ/vid
 [Сборка Kotlin/Native из исходников](http://techcave.ru/posts/102-sborka-kotlinnative-iz-ishodnikov.html)  
 [Микросервис на Kotlin, Spring Boot и Docker](http://techcave.ru/posts/101-mikroservis-na-kotlin-spring-boot-i-docker.html)  
 
-
 [DZone](https://dzone.com/)/[Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news)  
 [JVM-Free Kotlin With Kotlin/Native](https://dzone.com/articles/jvm-free-kotlin-with-kotlinnative)  
 
 [Getting started with Kotlin Native](https://www.sakib.ninja/getting-started-with-kotlin-native/)  
 
+Ariya.io/tags/[kotlin](https://ariya.io/tags/kotlin/)  
