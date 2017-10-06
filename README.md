@@ -156,3 +156,4 @@ Ariya.io/tags/[kotlin](https://ariya.io/tags/kotlin/)
 
 # r/[Kotlin](https://www.reddit.com/r/Kotlin/)
 
+r/Kotlin - [kotlin_native](https://www.reddit.com/r/Kotlin/comments/6ibuaw/kotlin_native/)  
