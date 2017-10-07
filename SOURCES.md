@@ -685,6 +685,6 @@ https://medium.com/tag/kotlin
 
 # /Interviews
 
-jaxenter/?s=[kotlin](https://jaxenter.com/?s=kotlin)
+[jaxenter](https://jaxenter.com)/?s=[kotlin](https://jaxenter.com/?s=kotlin)
 
 [What Kotlin is all about — As explained by Hadi Hariri](https://jaxenter.com/kotlin-interview-hadi-hariri-131490.html)  
